@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  flex-direction: column; 
+  justify-content: flex-start; 
+  align-items: flex-start; 
+  color: #575454;
+  padding: 0px 0px;
+  bottom: 0;
+  max-width: 1200px;
+  height: 60px;
+}
+.footer button {
+  padding: 10px 20px;
+  background-color:red;
+}

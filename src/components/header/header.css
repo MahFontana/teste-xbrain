@@ -1,0 +1,14 @@
+.header-container {
+    display: flex;
+    color:#333;
+    justify-content: flex-start;
+    padding: 10px;
+    border-bottom:  1px solid rgb(107,107,107);
+    color: #4b4b4b;
+    
+    font-size: 8px;
+  }
+  
+  .header-title {
+    margin: 0;
+  }
